@@ -35,7 +35,7 @@ Otherwise	🟢 SAFE (occasionally 🟠 CAUTION)	Path is clear / person nearby
 Run locally
 Clone the repository
 bash
-   git clone 
+   git clone https://kajalbaraiya.github.io/sahayak-ai/
    cd sahayak-ai
 Serve the file over localhost (browsers only allow camera access on localhost or HTTPS)
 bash
